@@ -1,0 +1,38 @@
+.container {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  background: #2f3a4c;
+  color: white;
+}
+.mp {
+  display: grid;
+  padding: 1rem 2rem;
+  grid-template-rows: repeat(3, 1fr);
+}
+
+.profile_mid {
+  display: grid;
+  grid-template-rows: repeat(5, 1fr);
+  margin: 3rem 1rem;
+}
+
+.profile_mid div {
+  padding: 10px;
+}
+.profile_mid .inpt {
+  outline: none;
+  padding: 5px 7px;
+  border-radius: 6px;
+}
+
+.mainprofile {
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.progress {
+}

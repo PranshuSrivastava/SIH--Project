@@ -1,0 +1,231 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+.signup-container {
+  margin-left:5%;
+  top: 380px;
+  left: 40%;
+  
+  box-sizing: border-box;
+  
+  max-height:590px;
+  float:left;
+}
+
+.line1 {
+  background-color: rgba(41, 19, 19, 0.158);
+  width: 2px;
+  height: 430px;
+  position: relative;
+  left: 570px;
+  bottom: 430px;
+}
+
+.or1 {
+  position: relative;
+  top: 170px;
+  z-index: 5;
+  font-size: 70px;
+  right: 53.8px;
+}
+
+.signup-container h1 {
+  text-align: center;
+  font-size: 40px;
+}
+.signup-container input {
+  margin: 30px;
+  width: 800px;
+}
+
+.signup-container button {
+  margin-top: 30px;
+}
+
+.signup-container label {
+  display: inline-block;
+  font-size: 50px;
+  position: relative;
+  left: 40px;
+}
+
+#inputelement3 {
+  width: 400px;
+  background-color: #d5d7de;
+  font-size: 20px;
+  display: inline-block;
+  position: relative;
+  top: 50px;
+  right: 102px;
+  border: 1px solid #000f;
+
+  color: #000f;
+  height: 50px;
+  border-radius: 5px;
+
+ 
+
+  font-size: 20px;
+
+  bottom: 20px;
+}
+
+#inputelement2s {
+  border: none;
+  width: 400px;
+  //  background-color: darken($color: #000000, $amount: 0);
+  font-size: 20px;
+  //  display: inline-block;
+  position: relative;
+  top: 50px;
+  right: 110px;
+
+  border: 1px solid #000f;
+  background-color: #d5d7de;
+  color: #000;
+  height: 50px;
+  border-radius: 5px;
+}
+
+#inputelement2s:hover {
+  background-color: #99a8b2;
+}
+
+.checkpara {
+  // position: relative;
+  // top: 50px;
+  // left: 26px;
+  color: red;
+  font-size: 13px;
+  margin: 0px;
+}
+
+.checkpara1 {
+  // position: relative;
+  // top: 50px;
+  // left: 26px;
+  color: #29bb89;
+  font-size: 13px;
+  margin: 0px;
+}
+
+#signinoption {
+  color: white;
+  display: inline-block;
+  margin: 30px;
+}
+#signinoption:hover {
+  text-shadow: 5px 10px 5px #050505;
+  text-decoration: black;
+}
+
+#inputelement3:hover {
+  background-color: #99a8b2;
+}
+// #0093E9
+
+#signupbutton {
+  width: 300px;
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #0088ff;
+  color: white;
+  display: inline-block;
+  position: relative;
+  left: 70px;
+  top: 45px;
+  border-radius: 3px;
+}
+
+#signupbutton:hover {
+  background-color: #0077cc;
+}
+
+
+
+
+
+
+///////////
+
+
+
+.signupPage {
+  width: auto;
+  height: 660px;
+  font-family: "Open Sans", sans-serif;
+}
+.signupContainer {
+  border: 1px solid #687280;
+  border-radius: 15px;
+  box-shadow: 2px 2px 5px #9ca3af;
+  align-items: center;
+  background: #fff;
+  width: 413px;
+  height: 455px;
+  margin: 100px auto;
+  transform: scale(1.2);
+}
+.signupContainer h1 {
+  margin: 25px 50px 20px 50px;
+}
+.signupContainer div {
+  margin-left: 50px;
+  margin-top: 8px;
+}
+
+.input_sign input{
+  
+  height: 33px;
+ 
+
+  padding-left: 10px;
+  border: none;
+  color: #374151;
+  border-radius: 3px;
+  background-color: #e4e8eb;
+  width: 87%;
+}
+
+.input_sign input:hover{
+  box-shadow: 2px 2px 4px #6b7280;
+}
+
+// #password {
+//   margin-top: 10px;
+// }
+.signUp p {
+  margin: 0px 0px 0px 41px;
+}
+.signUp a {
+  text-decoration: none;
+}
+.verifyPass{
+  color:#b800008f;
+  float: right;
+  height: 10px;
+  font-size: 12px;
+  margin: 0px 50px;
+  /* font-weight: bolder; */
+}
+
+.signupBtn {
+  color: #fff;
+  width: 282px;
+  height: 42px;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 19px;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 18px;
+  background-color: #1f2937;
+}
+.signupBtn:hover {
+  background-color: #374155;
+}
+
+.signUp{
+  margin-top: 50px;
+  }
